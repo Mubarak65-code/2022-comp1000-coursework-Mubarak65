@@ -1,0 +1,17 @@
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\bin\Debug\netcoreapp3.1\maps\Advanced.map
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\bin\Debug\netcoreapp3.1\maps\Simple.map
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\bin\Debug\netcoreapp3.1\maps\Simple2.map
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\bin\Debug\netcoreapp3.1\Software.exe
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\bin\Debug\netcoreapp3.1\Software.deps.json
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\bin\Debug\netcoreapp3.1\Software.runtimeconfig.json
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\bin\Debug\netcoreapp3.1\Software.runtimeconfig.dev.json
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\bin\Debug\netcoreapp3.1\Software.dll
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\bin\Debug\netcoreapp3.1\Software.pdb
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\obj\Debug\netcoreapp3.1\Software.csproj.AssemblyReference.cache
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\obj\Debug\netcoreapp3.1\Software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\obj\Debug\netcoreapp3.1\Software.AssemblyInfoInputs.cache
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\obj\Debug\netcoreapp3.1\Software.AssemblyInfo.cs
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\obj\Debug\netcoreapp3.1\Software.csproj.CoreCompileInputs.cache
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\obj\Debug\netcoreapp3.1\Software.dll
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\obj\Debug\netcoreapp3.1\Software.pdb
+C:\Users\future\Downloads\New folder (8)\2022-comp1000-coursework-Mubarak65-code\Software\obj\Debug\netcoreapp3.1\Software.genruntimeconfig.cache
